@@ -18,6 +18,15 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Downloads\asg1_8_ChanCheeKeen\MoveTheCarOut.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Downloads\asg1_8_ChanCheeKeen\CarParkSimulator.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\asg1_8_ChanCheeKeen\InEdge.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\asg1_8_ChanCheeKeen\State.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\asg1_8_ChanCheeKeen\Vehicle.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{33F2FD91-A3F9-4609-BA74-7A1E2A21DA7E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -141,15 +150,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Downloads\asg1_8_ChanCheeKeen\MoveTheCarOut.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Downloads\asg1_8_ChanCheeKeen\CarParkSimulator.h" />
-    <ClInclude Include="..\..\..\..\..\Downloads\asg1_8_ChanCheeKeen\InEdge.h" />
-    <ClInclude Include="..\..\..\..\..\Downloads\asg1_8_ChanCheeKeen\State.h" />
-    <ClInclude Include="..\..\..\..\..\Downloads\asg1_8_ChanCheeKeen\Vehicle.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
