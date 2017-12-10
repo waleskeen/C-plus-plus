@@ -1,0 +1,7 @@
+6
+E L 3
+G B 1
+F L 3
+O B 3
+Q B 2
+X R 4

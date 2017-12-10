@@ -1,0 +1,52 @@
+﻿  main.cpp
+main.cpp(57): warning C4150: deletion of pointer to incomplete type 'Edge'; no destructor called
+  main.cpp(44): note: see declaration of 'Edge'
+main.cpp(114): warning C4101: 'tmp': unreferenced local variable
+main.cpp(211): warning C4101: 'tmpNode': unreferenced local variable
+main.cpp(236): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+main.cpp(433): warning C4018: '<': signed/unsigned mismatch
+main.cpp(483): warning C4018: '>': signed/unsigned mismatch
+main.cpp(485): warning C4018: '<': signed/unsigned mismatch
+main.cpp(502): warning C4018: '<': signed/unsigned mismatch
+main.cpp(512): warning C4018: '<': signed/unsigned mismatch
+main.cpp(535): warning C4018: '<': signed/unsigned mismatch
+main.cpp(562): warning C4018: '<': signed/unsigned mismatch
+main.cpp(587): warning C4018: '<': signed/unsigned mismatch
+main.cpp(780): warning C4018: '<': signed/unsigned mismatch
+main.cpp(876): warning C4018: '<': signed/unsigned mismatch
+main.cpp(949): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1069): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1096): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1160): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1614): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1632): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1640): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1654): warning C4018: '<=': signed/unsigned mismatch
+main.cpp(1665): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1677): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1760): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1778): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1786): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1799): warning C4018: '<=': signed/unsigned mismatch
+main.cpp(1810): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1822): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1908): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1926): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1934): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1947): warning C4018: '<=': signed/unsigned mismatch
+main.cpp(1958): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1970): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2057): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2075): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2083): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2096): warning C4018: '<=': signed/unsigned mismatch
+main.cpp(2107): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2119): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2250): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2280): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2284): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 505 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PPAssignment2.vcxproj -> G:\waleskeen\visual studio\PPAssignment2\Release\PPAssignment2.exe

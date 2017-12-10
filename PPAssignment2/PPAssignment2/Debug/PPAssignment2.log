@@ -1,0 +1,42 @@
+﻿Build started 8/20/2014 11:27:34 PM.
+     1>Project "E:\visual studio\PPAssignment2\PPAssignment2\PPAssignment2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\visual studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(50): warning C4150: deletion of pointer to incomplete type 'Edge'; no destructor called
+                 e:\visual studio\ppassignment2\ppassignment2\main.cpp(37) : see declaration of 'Edge'
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(108): warning C4101: 'tmp' : unreferenced local variable
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(186): warning C4101: 'tmpNode' : unreferenced local variable
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(211): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 e:\visual studio 2012\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(454): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(461): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(483): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(489): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(510): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(536): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(559): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(606): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(685): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(752): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(846): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(873): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(930): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio\ppassignment2\ppassignment2\main.cpp(1003): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\visual studio 2012\vc\include\xutility(2176): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+                 e:\visual studio 2012\vc\include\xutility(2157) : see declaration of 'std::_Copy_impl'
+                 e:\visual studio\ppassignment2\ppassignment2\main.cpp(310) : see reference to function template instantiation '_OutIt std::copy<std::_String_iterator<_Mystr>,char*>(_InIt,_InIt,_OutIt)' being compiled
+                 with
+                 [
+                     _OutIt=char *,
+                     _Mystr=std::_String_val<std::_Simple_types<char>>,
+                     _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>
+                 ]
+       Link:
+         E:\visual studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\visual studio\PPAssignment2\Debug\PPAssignment2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\visual studio\PPAssignment2\Debug\PPAssignment2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\visual studio\PPAssignment2\Debug\PPAssignment2.lib" /MACHINE:X86 Debug\main.obj
+         PPAssignment2.vcxproj -> E:\visual studio\PPAssignment2\Debug\PPAssignment2.exe
+     1>Done Building Project "E:\visual studio\PPAssignment2\PPAssignment2\PPAssignment2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.11
